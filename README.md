@@ -1,7 +1,19 @@
-# Boilerplate for Bootstrap and jquery
+# Epicodus Boilerplate
 
-### A simple html boilerplate with CDN links for the Bootstrap and jQuery.
+#### Description
+_Epicodus intro student projects all use the same file tree and technology, so here they are, all linked together in one place for your convenience._ 
 
-To use: simply copy and paste the relevant code into your project, and change the css and js file paths to match yours.
+#### Instructions
 
-Made to make your life easier. Enjoy!
+Clone this repo, open it up, and enjoy!
+
+_Note: there's also a README template included, so just delete this one, include your info on that one, and you're all set!_
+
+#### Bugs
+
+None known. Contact me if you have issues: winterrunion@gmail.com
+
+#### License
+
+This software is licensed under the MIT license.
+
