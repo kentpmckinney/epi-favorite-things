@@ -1,6 +1,10 @@
-alert('js is working');
+window.onload = (function() {
+  //alert('js is working');
 
-window.onLoad() {
 
-  alert("javascript is working");
-}
+
+  document.getElementById("form").addEventListener("submit", function() {
+    alert("form has been submitted");
+  });
+
+});
