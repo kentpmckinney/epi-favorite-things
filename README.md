@@ -1,7 +1,7 @@
 <!-- Category: Epicodus;HTML/CSS/JS -->
 # Favorite Things
 
-Shows a list of my favorite things
+Shows a list of favorite things
 
 https://github.com/kentpmckinney/epi-favorite-things
 
@@ -26,8 +26,8 @@ Git (optional but recommended)
 
 ### Setting up a Development Environment
 
-1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-triangle-tracker
-   or clone using the repository link: https://github.com/kentpmckinney/epi-triangle-tracker.git
+1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-favorite-things
+   or clone using the repository link: https://github.com/kentpmckinney/epi-favorite-things.git
 2. Navigate to the folder location of the source files in Finder or in the Terminal
 3. Open the file 'index.html' in a web browser
 
