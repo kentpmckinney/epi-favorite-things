@@ -1,25 +1,54 @@
-# Epicodus Boilerplate
+<!-- Category: Epicodus;HTML/CSS/JS -->
+# Favorite Things
 
-#### _An HTML template that includes Bootstrap and jQuery CDN links, 1.28.2020_
+Shows a list of my favorite things
 
-#### By _**Winter A. Runion**_
+https://github.com/kentpmckinney/epi-favorite-things
 
-## Description
-_Epicodus intro student projects all use the same file tree and technology (Bootstrap and jQuery), so here they are, all linked together in one place for your convenience._ 
+## Previewing this Project
 
-## Instructions
+This project is hosted at: https://kentpmckinney.github.io/epi-favorite-things
 
-1. Push the green "Use This Template" button, create your own Github repo from this one, and clone/download it to your machine.
+## Working with the Source Code
 
-2. Do your coding thing!
+The following instructions explain how to set up a development environment for this project on MacOS. Steps will differ depending on the operating system.
 
-3. Delete this README and use "README-template.md" to create your own.
+### Prerequisites
 
-4. Enjoy not having to recreate this boilerplate for every single project you do!
+The following software must be installed and properly configured on the target machine. 
 
-## Known Bugs
+```
+An updated web browser (Internet Explorer is not compatible)
+```
+```
+Git (optional but recommended)
+```
 
-None known. Contact me if you have issues: winterrunion@gmail.com
+### Setting up a Development Environment
 
-#### License
-This software is licensed under the MIT license.
+1. Download a copy of the source code from: https://github.com/kentpmckinney/epi-triangle-tracker
+   or clone using the repository link: https://github.com/kentpmckinney/epi-triangle-tracker.git
+2. Navigate to the folder location of the source files in Finder or in the Terminal
+3. Open the file 'index.html' in a web browser
+
+## Deployment
+
+Source files are deployable as-is
+
+## Technologies Used
+
+* JavaScript
+* HTML
+* CSS
+* Jquery
+
+## Authors
+
+Kent McKinney - [GitHub](https://github.com/kentpmckinney) - [LinkedIn](https://www.linkedin.com/in/kentpmckinney/)
+Winter Runion
+
+### Copyright &copy; 2020 Kent P. McKinney and Winter Runion
+
+## Acknowledgments
+
+https://www.learnhowtoprogram.com/introduction-to-programming/arrays-and-looping/practice-javascript-arrays
